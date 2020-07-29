@@ -14,31 +14,31 @@
           "url": "https://www.youtube.com/watch?v=jxVkk7VzWYo&t=38s"
         },
         {
-          "titulo": "SEO com React",
+          "titulo": "Como usar Wish",
           "url": "https://www.youtube.com/watch?v=06RnNVDHPz8"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
+          "titulo": "at & to",
           "url": "https://www.youtube.com/watch?v=-xOmWOztse8&t=99s"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "titulo": "Aula do rafael",
           "url": "https://www.youtube.com/watch?v=T4xB0Jm41u4"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "titulo": "Aula do rafael",
           "url": "https://www.youtube.com/watch?v=LH4t3h4-sO4&t=36s"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "titulo": "Aula do rafael",
           "url": "https://www.youtube.com/watch?v=nXNXnTvwWmE"
         },
         {
-          "titulo": "Novidades do Angular v9",
+          "titulo": "Aula do rafael",
           "url": "https://www.youtube.com/watch?v=gjuliXGxAfY"
         },
         {
-          "titulo": "Base para aprender os frameworks",
+          "titulo": "Aula do rafael",
           "url": "https://www.youtube.com/watch?v=5VoP8JNTecs"
         }        
       ]
@@ -47,28 +47,28 @@
       "titulo": "Discipulos de Heráclito",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Canal mais autista do youtube",
+        "text": "Discipulos de Heráclito",
         "url": "https://www.youtube.com/channel/UC3YfDqosEdaBJeD4RupWQFA"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "titulo": "Discipulos de Heráclito",
           "url": "https://www.youtube.com/watch?v=t8yFs7nR0Ic"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "titulo": "Discipulos de Heráclito",
           "url": "https://www.youtube.com/watch?v=wIgVIUFI9XE"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "titulo": "Discipulos de Heráclito",
           "url": "https://www.youtube.com/watch?v=YorPTTIgb1c"
         },
         {
-          "titulo": "API: Dicionário do Programador",
+          "titulo": "Discipulos de Heráclito",
           "url": "https://www.youtube.com/watch?v=kzsiECzmgcw"
         }, 
         {
-          "titulo": "Usando Git Direito",
+          "titulo": "Discipulos de Heráclito",
           "url": "https://www.youtube.com/watch?v=jxVkk7VzWYo&t=38s"
         }
       ]
@@ -82,104 +82,22 @@
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
+          "titulo": "Shuiti Sincero",
           "url": "https://www.youtube.com/watch?v=WWEXrHvAbY0"
         },
         {
-          "titulo": "O que é Data Science?",
+          "titulo": "Shuiti Sincero",
           "url": "https://www.youtube.com/watch?v=QEBYUZIZItg"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
+          "titulo": "Shuiti Sincero",
           "url": "https://www.youtube.com/watch?v=1uTYDtDulI0"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
+          "titulo": "Shuiti Sincero",
           "url": "https://www.youtube.com/watch?v=qLbj9uiJVTk"
         }
       ]
-    },
-    {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
-      "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-        }
-      ]
-    }
-  ]
+    } 
+ ]
 }
